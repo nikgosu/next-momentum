@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JavaScript post",
+      "text": "Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "title": "Python post",
+      "text": "Lorem ipsum Python"
+    },
+    {
+      "id": 2,
+      "title": "Java post",
+      "text": "Lorem ipsum Java"
+    }
+  ]
+}
